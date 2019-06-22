@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1561222485492" stop="1561222487662" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify timline is displayed in correct format</name>
+    <title>Verify timline is displayed in correct format</title>
+    <test-cases>
+        <test-case start="1561222485494" stop="1561222485494" status="passed">
+            <name>Given I am on Darksky HomePage</name>
+            <title>Given I am on Darksky HomePage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222486639" stop="1561222486639" status="passed">
+            <name>Given I am on the DarkSky Home Page</name>
+            <title>Given I am on the DarkSky Home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222487330" stop="1561222487330" status="passed">
+            <name>Then I verify timeline is displayed with two hours incremented</name>
+            <title>Then I verify timeline is displayed with two hours incremented</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify timline is displayed in correct format"/>
+        <label name="feature" value=""/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

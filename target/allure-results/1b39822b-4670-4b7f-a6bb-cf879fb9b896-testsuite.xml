@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1561222457097" stop="1561222458999" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline</name>
+    <title>Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline</title>
+    <test-cases>
+        <test-case start="1561222457102" stop="1561222457102" status="passed">
+            <name>Given I am on Darksky HomePage</name>
+            <title>Given I am on Darksky HomePage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222458124" stop="1561222458124" status="passed">
+            <name>Given I am on the DarkSky Home Page</name>
+            <title>Given I am on the DarkSky Home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222458820" stop="1561222458820" status="passed">
+            <name>Then I verify current temp is not greater or less then temps from daily timeline</name>
+            <title>Then I verify current temp is not greater or less then temps from daily timeline</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify Current Temperature should not be greater or less than the Temperature from Daily Timeline"/>
+        <label name="feature" value=""/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

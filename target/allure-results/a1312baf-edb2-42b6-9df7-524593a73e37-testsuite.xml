@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1561222444005" stop="1561222446220" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid signup error message</name>
+    <title>Verify invalid signup error message</title>
+    <test-cases>
+        <test-case start="1561222444070" stop="1561222444078" status="passed">
+            <name>Given I am on Darksky HomePage</name>
+            <title>Given I am on Darksky HomePage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222445719" stop="1561222445719" status="passed">
+            <name>Given I am on the darksky Register page</name>
+            <title>Given I am on the darksky Register page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222445836" stop="1561222445836" status="passed">
+            <name>When I click on Register button</name>
+            <title>When I click on Register button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1561222445852" stop="1561222445852" status="passed">
+            <name>Then I verify im still on register page</name>
+            <title>Then I verify im still on register page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="SHRKs-MBP"/>
+                <label name="thread" value="4686@SHRKs-MBP.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid signup error message"/>
+        <label name="feature" value=""/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
