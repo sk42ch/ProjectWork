@@ -121,7 +121,7 @@ public class DarkSkyNet extends BasePage {
 
 
         WebElement targetTo = SharedSD.getDriver().findElement(moveTomiddle);
-        Thread.sleep(4000);
+       // Thread.sleep(4000);
         Actions actions = new Actions(SharedSD.getDriver());
         actions.moveToElement(targetTo);
         actions.perform();
